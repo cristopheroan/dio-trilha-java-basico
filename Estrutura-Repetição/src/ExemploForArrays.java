@@ -1,5 +1,5 @@
 // ExemploFor.java
-public class ExemploFor {
+public class ExemploForArrays {
     public static void main(String[] args) {
         String alunos[] = { "FELIPE", "JONAS", "JULIA", "MARCOS" };
     
@@ -8,4 +8,4 @@ public class ExemploFor {
         }
     
     }
-    }
+}    
